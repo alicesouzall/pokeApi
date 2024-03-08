@@ -8,6 +8,3 @@
 
 ## Iniciar o server
 - Rodar no terminal `yarn start`.
-
-## Backend do projeto
-- O backend do projeto está em outro repostório meu: 
